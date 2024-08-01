@@ -6,3 +6,13 @@ html{
     background-repeat: no-repeat;
     background-size: cover;
 }
+@media screen and (min-width:768px){
+    html{
+        background-image: url("./assets/images/background2.jpg");
+    }
+}
+@media screen and (min-width:992px){
+    html{
+        background-image: url("./assets/images/background3.jpg");
+    }
+}

@@ -10,7 +10,7 @@ export default {
         'background-image': "url('src/assets/images/background.jpg')",
       },
       colors:{
-        'text-blue':"#0D2F44FF",
+        'text-blue':"#  0D2F44FF",
         'btn-blue':"#0B99E9FF",
       },
       container: {
